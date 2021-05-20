@@ -19,6 +19,7 @@
             android:name=".SplashActivity"
             android:label="@string/app_name"
             android:noHistory="true"
+            android:screenOrientation="portrait"
             android:theme="@style/Theme.LOLTube">
 
             <intent-filter>
@@ -31,6 +32,7 @@
         <activity
             android:name=".TubeActivity"
             android:label="@string/app_name"
+            android:screenOrientation="portrait"
             android:theme="@style/Theme.LOLTube">
         </activity>
 
