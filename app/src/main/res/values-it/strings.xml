@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LOL Tube</string>
+    <string name="tube_image_description">Immagine LOL Tube</string>
+    <string name="splash_welcome_text">Immagine testo di benvenuto</string>
+    <string name="image_description">Immagine tubetto</string>
+    <string name="tilt_device_message">Inclina il dispositivo</string>
+    <string name="turn_up_volume_message">Alza il volume</string>
+    <string name="IO_error">Oops… Qualcosa è andato storto</string>
+    <string name="welcome_text_img_description">LOL Tube</string>
+    <string name="spinning_stick_img_description">Tubo animato</string>
+</resources>

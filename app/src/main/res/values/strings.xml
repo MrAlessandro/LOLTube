@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">LOLTube</string>
+    <string name="app_name">LOL Tube</string>
+    <string name="tube_image_description">LOL Tube Image</string>
+    <string name="splash_welcome_text">Welcome text image</string>
+    <string name="image_description">Stick image</string>
+
+    <!-- Toast messages -->
+    <string name="tilt_device_message">Tilt the device</string>
+    <string name="turn_up_volume_message">Turn up the volume</string>
+    <string name="IO_error">Oops… Something went wrong</string>
+    <string name="welcome_text_img_description">LOL Tube</string>
+    <string name="spinning_stick_img_description">Animated stick</string>
 </resources>

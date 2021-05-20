@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Custom -->
+    <color name="electric_lime">#ccff00</color>
+    <color name="yellow_orange_color_wheel">#ff9900</color>
+    <color name="onyx">#36393b</color>
+    <color name="indigo">#440381</color>
+
+    <!-- Predefined -->
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
